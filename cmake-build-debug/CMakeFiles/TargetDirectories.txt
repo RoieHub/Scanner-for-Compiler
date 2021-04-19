@@ -1,0 +1,3 @@
+C:/Users/97252/Desktop/Studies/AdvencedPrograming/Ass2P/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/97252/Desktop/Studies/AdvencedPrograming/Ass2P/cmake-build-debug/CMakeFiles/Ass2P.dir
+C:/Users/97252/Desktop/Studies/AdvencedPrograming/Ass2P/cmake-build-debug/CMakeFiles/rebuild_cache.dir

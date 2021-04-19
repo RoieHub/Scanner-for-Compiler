@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Ass2P.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\ar.exe cr CMakeFiles\Ass2P.dir/objects.a @CMakeFiles\Ass2P.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\Ass2P.dir/objects.a -Wl,--no-whole-archive  -o Ass2P.exe -Wl,--out-implib,libAss2P.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Ass2P.dir\linklibs.rsp

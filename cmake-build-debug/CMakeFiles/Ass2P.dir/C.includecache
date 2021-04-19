@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/97252/Desktop/Studies/AdvencedPrograming/Ass2P/test1.c
+
+C:/Users/97252/Desktop/Studies/AdvencedPrograming/Ass2P/test10.c
+
+C:/Users/97252/Desktop/Studies/AdvencedPrograming/Ass2P/test2.c
+
+C:/Users/97252/Desktop/Studies/AdvencedPrograming/Ass2P/test3.c
+
+C:/Users/97252/Desktop/Studies/AdvencedPrograming/Ass2P/test4.c
+
+C:/Users/97252/Desktop/Studies/AdvencedPrograming/Ass2P/test5.c
+
+C:/Users/97252/Desktop/Studies/AdvencedPrograming/Ass2P/test6.c
+
+C:/Users/97252/Desktop/Studies/AdvencedPrograming/Ass2P/test7.c
+
+C:/Users/97252/Desktop/Studies/AdvencedPrograming/Ass2P/test8.c
+
+C:/Users/97252/Desktop/Studies/AdvencedPrograming/Ass2P/test9.c
+
